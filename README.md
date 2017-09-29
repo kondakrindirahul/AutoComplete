@@ -2,7 +2,7 @@
 * The task is programmed in Python 2.7 and the IDE used is    PyCharms Community Edition.  
 * The required libraries and packages are provided in requirements.txt and can be installed by going to the folder in the terminal and giving the following command         
               pip install -r requirements.txt  
-* Unzip the folder in the desired location and give the following commands from the terminal to run the the three python files  (i)  $ python SynonymGenerator.py      
+* Unzip the folder in the desired location and give the following commands from the terminal to run the the three python files <br>  (i)  $ python SynonymGenerator.py      
         Enter the word when prompted  
 (ii) $ python AutoComplete.py     
         Enter a prefix when prompted  
